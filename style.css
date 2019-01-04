@@ -1,0 +1,15 @@
+
+.top{
+    background-image: url(12.jpeg);
+    background-position: center;
+    background-size: auto;
+    height: 300px;
+}
+.middle{
+    background-color: gray;
+    height: 100px;
+}
+.bottom{
+    background-color: bisque;
+    height: 300px;
+}
